@@ -1,0 +1,7 @@
+20_Validation/*
+20_categories_training/*
+
+.DS_Store
+*.zip
+.ipynb_checkpoints
+*.h5
